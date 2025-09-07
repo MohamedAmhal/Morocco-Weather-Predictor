@@ -19,19 +19,19 @@ This project demonstrates how big data technologies can be leveraged to create a
 
 ## 📂 Project Structure  
 
+```
 Morocco-Weather-Predictor/
-│── 📄 README.md # Project documentation
-│── Repport
-| ├── 📄 Report.pdf # Detailed report of the project (in French)
+│── 📄 README.md                      # Project documentation
+│── 📁 Repport/
+│   └── 📄 Report.pdf                 # Detailed project report (French)
 │
-├── Base code/
-│ ├── producer_code1.py # Kafka producer: collects weather data from OpenWeather API
-│ ├── extraire_lesdonnees_code2.py # Data extraction and preprocessing script
-│ ├── traitementSPARK_code3.py # Real-time data processing & predictive modeling with Spark MLlib
-│ ├── visualisation_code4.py # Streamlit dashboard for visualization (temperature trends, correlations)
-│ └── temp.jpg # Sample visualization of temperature analysis
-│
-└── LICENSE.md # License file
+└── 📁 Base code/
+    ├── 📄 producer_code1.py          # Kafka producer for OpenWeather API
+    ├── 📄 extraire_lesdonnees_code2.py # Data extraction & preprocessing
+    ├── 📄 traitementSPARK_code3.py   # Spark MLlib processing & modeling
+    ├── 📄 visualisation_code4.py     # Streamlit dashboard
+    └── 📄 temp.jpg                   # Sample temperature visualization
+```
 
 
 ---
@@ -70,3 +70,5 @@ This project is licensed under the **MIT License** – see the [LICENSE.md](LICE
 - Deploy the system on a cloud platform (AWS, Azure, or GCP).  
 - Improve model accuracy using deep learning approaches (LSTM/GRU).  
 - Extend the dashboard with predictive maps of Moroccan regions.  
+
+
