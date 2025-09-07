@@ -1,6 +1,6 @@
 # 🌤️ Morocco Weather Predictor  
 
-![Temperature Analysis](Base%20code/temp.jpg)  
+![Temperature Analysis](BASE_CODE/temp.jpg)  
 
 ## 📌 Project Overview  
 The **Morocco Weather Predictor** is a big data project that focuses on analyzing and predicting temperature variations across Moroccan cities.  
